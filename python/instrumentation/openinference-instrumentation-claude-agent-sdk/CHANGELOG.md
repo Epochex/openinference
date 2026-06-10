@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/Arize-ai/openinference/compare/python-openinference-instrumentation-claude-agent-sdk-v0.1.5...python-openinference-instrumentation-claude-agent-sdk-v0.1.6) (2026-06-10)
+
+
+### Bug Fixes
+
+* **claude_agent_sdk:** Record Real Tool Error Content on Failed Tool Spans ([#3139](https://github.com/Arize-ai/openinference/issues/3139)) ([06d8eed](https://github.com/Arize-ai/openinference/commit/06d8eedae5e8c7425547c1be5d7f62c72cdb14b6))
+
 ## [0.1.5](https://github.com/Arize-ai/openinference/compare/python-openinference-instrumentation-claude-agent-sdk-v0.1.4...python-openinference-instrumentation-claude-agent-sdk-v0.1.5) (2026-05-29)
 
 
